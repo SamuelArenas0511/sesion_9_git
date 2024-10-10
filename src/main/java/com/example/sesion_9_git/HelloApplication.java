@@ -16,6 +16,7 @@ public class HelloApplication extends Application {
         stage.setScene(scene);
         stage.setResizable(false);
         stage.show();
+        System.out.println("Cambie algo");
     }
 
     public static void main(String[] args) {
